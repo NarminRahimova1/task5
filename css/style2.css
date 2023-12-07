@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.login-box{
+    width: 300px;
+    height: 460px;
+    border: 2px solid gray;
+    border-radius: 30px;
+    margin: 30px;
+} 
+.icon .fa-user{
+    width: 100px;
+    height: 100px;
+    background-color: #1576bb;
+    color: white;
+    font-size: 60px;
+    border-radius: 50%;
+    padding: 22px;
+    margin: 15px 90px;
+}
+.user{
+    margin: 30px;
+}
+.user input{
+    border: none;
+    outline: none;
+    margin: 5px;
+}
+.login-box .user{
+    border-bottom: 1px solid gray;
+}
+.button .btn{
+    border: none;
+    background-color: #1576bb;
+    color: white;
+    padding: 10px 90px;
+    border-radius: 20px;
+    font-size: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
+label{
+    color: gray;
+    margin: 5px;
+}
+p{
+    text-align: center;
+    color: #1576bb;
+    font-size: 20px;
+}
+

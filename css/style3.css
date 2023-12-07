@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.sign-up{
+    width: 300px;
+    height: 480px;
+    border-radius: 30px;
+    margin: 20px;
+    padding: 5px;
+    background-color: #1576bb;
+}
+.header h1{
+    text-align: center;
+    color: white;
+    margin: 15px;
+    padding: 5px;
+}
+input::placeholder{
+    color: white;
+    font-size: 20px;
+}
+.user{
+   margin: 30px;
+   border-bottom: 1px solid white;
+   width: 220px;
+}
+.user input{
+    padding: 10px;
+    background: transparent;
+    border: none;
+    outline: none;
+}
+.button .btn{
+    border: none;
+    outline: none;
+    background-color: white;
+    color: #1576bb;
+    padding: 10px 30px;
+    margin: 15px;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
